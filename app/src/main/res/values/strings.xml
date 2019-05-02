@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Kotlin-Application-2</string>
+    <string name="item_price">Price ($)</string>
+    <string name="budget_total">Budget ($)</string>
+    <string name="product_name">Product Name</string>
+    <string name="quantity_label">Quantity</string>
+    <string name="priority_label">Priority</string>
+    <string name="dialog_go_shopping" >Go Shopping?</string>
+    <string name="dialog_yes" >Yes</string>
+    <string name="dialog_no" >No</string>
+    <string name="dollar_sign">$</string>
+
+    <string-array name="quantity_items" >
+        <item >1</item>
+        <item >2</item>
+        <item >3</item>
+        <item >4</item>
+        <item >5</item>
+        <item >6</item>
+        <item >7</item>
+        <item >8</item>
+        <item >9</item>
+        <item >10</item>
+    </string-array>
+
+    <string-array name="priority_items" >
+        <item >1</item>
+        <item >2</item>
+        <item >3</item>
+    </string-array>
+</resources>
